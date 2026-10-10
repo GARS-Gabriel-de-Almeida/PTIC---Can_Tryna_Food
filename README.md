@@ -34,7 +34,7 @@ Durante o desenvolvimento, foram elaborados documentos de análise e modelagem d
 
 ## Materiais do projeto
 
-* [Apresentação no Figma 1](https://www.figma.com/deck/B5jgkkXLEKwy0TBRgUgbMA)
+* [Apresentação no Figma](https://www.figma.com/deck/B5jgkkXLEKwy0TBRgUgbMA)
 * [Documentação no Google Docs](https://docs.google.com/document/d/1ZTpMpq-r3wSEbXrnS1SK6YGyBS50cqXdxjXV7uppj1I/edit?usp=sharing)
 ## Integrantes
 
